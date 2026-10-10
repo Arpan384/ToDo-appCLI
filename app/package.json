@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
-    "figlet": "^1.2.4"
+    "figlet": "^1.11.3"
   }
 }
